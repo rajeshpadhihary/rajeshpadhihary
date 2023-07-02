@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajeshpadhihary
+- 👋 Hi, I’m Rajesh Padhihary
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on python coding
