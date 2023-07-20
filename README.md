@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Padhihary
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science engineering
+- 🌱 I’m a computer science engineering student recently i completed my graduation
 - 💞️ I love to code in python
 - 📫 How to reach me ...
 - email :- rajeshpadhihary100@gmail.com
