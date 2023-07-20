@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Rajesh Padhihary
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on python coding
-- 📫 How to reach me ... not required
+- 💞️ I love to code in python
+- 📫 How to reach me ...
+- email :- rajeshpadhihary100@gmail.com
 
 <!---
 rajeshpadhihary/rajeshpadhihary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
